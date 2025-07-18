@@ -1,7 +1,7 @@
 import React from "react";
 import Hero from "../components/Hero";
 import Feature from "../components/Feature";
-import Offers from "../components/offers";
+import Offers from "../components/Offers";
 import Testim from "../components/Testim";
 import Newsletter from "../components/Newsletter";
 
